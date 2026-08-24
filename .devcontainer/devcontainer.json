@@ -4,6 +4,7 @@
   "customizations": {
     "vscode": {
       "settings": {
+        "security.workspace.trust.enabled": false,
         "files.exclude": {
           "**/.devcontainer": true,
           "**/.gitignore": true
