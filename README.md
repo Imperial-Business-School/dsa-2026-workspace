@@ -26,8 +26,9 @@ installing Python locally. It's yours: nothing here is shared with or visible to
    the resulting zip to match the naming convention (e.g. `class-3-activity.zip`), same as the
    local workflow, then right-click that zip file and choose **Download**, and upload it to
    Canvas.
-5. Delete those files (and the zip) from your Codespace once you've submitted, ready for next
-   week's.
+5. **Confirm you actually have the downloaded zip saved locally** (check your Downloads folder)
+   before doing anything else. Once you've verified that, delete those files (and the zip) from
+   your Codespace, ready for next week's.
 
 **Always download your work before you close out for the day, not just before the final
 deadline.** Don't rely on the cloud as your only copy: a Codespace can be deleted, including
