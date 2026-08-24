@@ -3,6 +3,12 @@
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
   "customizations": {
     "vscode": {
+      "settings": {
+        "files.exclude": {
+          "**/.devcontainer": true,
+          "**/.gitignore": true
+        }
+      },
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance",

@@ -20,9 +20,11 @@ installing Python locally. It's yours: nothing here is shared with or visible to
    terminal to run `python ok --score` exactly as in the local setup instructions.
 4. When you're done, select the folder in the file explorer, right-click, and choose **Download**.
    This downloads it as a zip you can upload to Canvas, same as the local workflow.
+5. Delete that week's folder from your Codespace once you've submitted it, ready for next week's.
 
-You can delete a week's folder from your Codespace once you've submitted it. It's your workspace;
-keep it as tidy or as full as you like.
+The file explorer only ever needs to show that week's activity folder. A couple of setup files
+(`.devcontainer`, `.gitignore`) are hidden from view on purpose, since they're not something you
+need to touch; they're what makes the environment work automatically, in the background.
 
 ## Working locally instead
 
