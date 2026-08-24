@@ -9,18 +9,27 @@ installing Python locally. It's yours: nothing here is shared with or visible to
    account.
 2. On your copy, click **Code -> Codespaces -> Create codespace on main**. The first launch takes
    a minute or two while it installs Python and the required packages; every launch after that is
-   fast.
+   fast. The first time, VS Code may ask **"Do you trust the authors of the files in this
+   folder?"**; this is a normal one-time prompt for any new workspace, not a warning specific to
+   this repository. Click **Yes, I trust the authors**.
 
 ## Each week
 
 1. Download that week's activity folder (from Canvas, same as usual) and unzip it locally.
-2. In your Codespace, drag the unzipped folder into the file explorer on the left to add it to
-   your workspace.
+2. Open the unzipped folder, select everything inside it (not the folder itself), and drag those
+   files and folders into your Codespace's file explorer, so they land directly in your workspace
+   rather than nested inside an extra folder.
 3. Open its notebook(s) in the Jupyter extension, or work with the `.py` files directly. Use the
    terminal to run `python ok --score` exactly as in the local setup instructions.
-4. When you're done, select the folder in the file explorer, right-click, and choose **Download**.
-   This downloads it as a zip you can upload to Canvas, same as the local workflow.
-5. Delete that week's folder from your Codespace once you've submitted it, ready for next week's.
+4. When you're done, select all of those files and folders again, right-click, and choose
+   **Download**. This downloads them as a zip you can upload to Canvas, same as the local
+   workflow.
+5. Delete those files from your Codespace once you've submitted them, ready for next week's.
+
+**Always download your work before you close out for the day, not just before the final
+deadline.** Don't rely on the cloud as your only copy: a Codespace can be deleted, including
+automatically after a period of inactivity. If yours is deleted or something goes wrong with it,
+anything you didn't already download is gone.
 
 The file explorer only ever needs to show that week's activity folder. A couple of setup files
 (`.devcontainer`, `.gitignore`) are hidden from view on purpose, since they're not something you

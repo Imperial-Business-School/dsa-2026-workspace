@@ -4,7 +4,6 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "security.workspace.trust.enabled": false,
         "files.exclude": {
           "**/.devcontainer": true,
           "**/.gitignore": true
@@ -24,5 +23,5 @@
       ]
     }
   },
-  "postCreateCommand": "pip install --upgrade pip && pip install numpy pandas matplotlib networkx xlrd ipykernel beautifulsoup4 requests && python -m ipykernel install --user --name python3 --display-name \"Python 3\""
+  "postCreateCommand": "python3 -m pip install --upgrade pip && python3 -m pip install numpy pandas matplotlib networkx xlrd ipykernel beautifulsoup4 requests && python3 -m ipykernel install --user --name python3 --display-name \"Python 3\""
 }
