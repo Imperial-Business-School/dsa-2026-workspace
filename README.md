@@ -16,6 +16,11 @@ course materials on Canvas) for how to register first.
    fast. The first time, VS Code may ask **"Do you trust the authors of the files in this
    folder?"**; this is a normal one-time prompt for any new workspace, not a warning specific to
    this repository. Click **Yes, I trust the authors**.
+3. If **Compress to ZIP** doesn't appear when you right-click a file the very first time you open
+   your Codespace, reload the window (Command Palette -> **"Developer: Reload Window"**) and it'll
+   show up. This is normal VS Code behaviour after a fresh install, not specific to this
+   extension: an extension's right-click menu entries sometimes don't register until the next
+   reload.
 
 ## Each week
 
