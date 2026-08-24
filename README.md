@@ -7,6 +7,12 @@ installing Python locally. It's yours: nothing here is shared with or visible to
 organisation. If a link to it doesn't load for you, see the **Getting Started** guide (in the
 course materials on Canvas) for how to register first.
 
+A few terms used below: your **workspace** is this open project folder in VS Code. The **file
+explorer** is the panel of files and folders down the left side of the window. An **extension** is
+a small add-on that gives VS Code an extra feature -- Compress to ZIP (used below) and Live
+Preview are both extensions. The **terminal** is a text-based command window, opened with
+`` Ctrl+` `` (backtick) or `` Cmd+` ``.
+
 ## One-time setup
 
 1. Click **Use this template** on the repository page to create your own copy under your GitHub
@@ -16,11 +22,12 @@ course materials on Canvas) for how to register first.
    fast. The first time, VS Code may ask **"Do you trust the authors of the files in this
    folder?"**; this is a normal one-time prompt for any new workspace, not a warning specific to
    this repository. Click **Yes, I trust the authors**.
-3. If **Compress to ZIP** doesn't appear when you right-click a file the very first time you open
-   your Codespace, reload the window (Command Palette -> **"Developer: Reload Window"**) and it'll
-   show up. This is normal VS Code behaviour after a fresh install, not specific to this
-   extension: an extension's right-click menu entries sometimes don't register until the next
-   reload.
+3. If **Compress to ZIP** (used in step 4 below) doesn't appear when you right-click a file the
+   very first time you open your Codespace, reload the window using the **Command Palette** (a
+   search box for running commands by name -- open it with `Ctrl+Shift+P` on Windows/Linux or
+   `Cmd+Shift+P` on Mac, type **"Developer: Reload Window"**, and press Enter) and it'll show up.
+   This is normal VS Code behaviour after a fresh install, not a problem with the extension
+   itself: an extension's right-click menu entries sometimes don't register until the next reload.
 
 ## Each week
 
