@@ -16,15 +16,16 @@ installing Python locally. It's yours: nothing here is shared with or visible to
 ## Each week
 
 1. Download that week's activity folder (from Canvas, same as usual) and unzip it locally.
-2. Open the unzipped folder, select everything inside it (not the folder itself), and drag those
-   files and folders into your Codespace's file explorer, so they land directly in your workspace
-   rather than nested inside an extra folder.
+2. Drag the **whole `activity` folder** (not its individual contents) into your Codespace's file
+   explorer to add it to your workspace.
 3. Open its notebook(s) in the Jupyter extension, or work with the `.py` files directly. Use the
    terminal to run `python ok --score` exactly as in the local setup instructions.
-4. When you're done, select all of those files and folders again, right-click, and choose
-   **Download**. This downloads them as a zip you can upload to Canvas, same as the local
-   workflow.
-5. Delete those files from your Codespace once you've submitted them, ready for next week's.
+4. When you're done, right-click that same folder and choose **Compress to ZIP** (folders can't be
+   downloaded directly in Codespaces, only individual files -- this creates a single zip file
+   first, which you can then download). Rename the resulting zip to match the naming convention
+   (e.g. `class-3-activity.zip`), same as the local workflow, then right-click *that* zip file and
+   choose **Download**, and upload it to Canvas.
+5. Delete the folder from your Codespace once you've submitted it, ready for next week's.
 
 **Always download your work before you close out for the day, not just before the final
 deadline.** Don't rely on the cloud as your only copy: a Codespace can be deleted, including
