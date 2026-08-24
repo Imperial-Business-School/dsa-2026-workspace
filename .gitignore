@@ -1,0 +1,6 @@
+*.pyc
+**/__pycache__
+**/.pytest_cache
+**/.ipynb_checkpoints
+.ok_history
+.ok_storage*
