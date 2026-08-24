@@ -3,6 +3,10 @@
 This is your personal workspace for running class activities in the cloud, as an alternative to
 installing Python locally. It's yours: nothing here is shared with or visible to other students.
 
+**Note:** this repository is only visible to people signed in to GitHub through Imperial's
+organisation. If a link to it doesn't load for you, see the **Getting Started** guide (in the
+course materials on Canvas) for how to register first.
+
 ## One-time setup
 
 1. Click **Use this template** on the repository page to create your own copy under your GitHub
