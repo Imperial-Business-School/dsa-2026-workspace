@@ -17,9 +17,9 @@ Preview are both extensions. The **terminal** is a text-based command window, op
 
 1. Click **Use this template** on the repository page to create your own copy under your GitHub
    account.
-2. On your copy, click **Code -> Codespaces -> Create codespace on main**. The first launch takes
-   a minute or two while it installs Python and the required packages; every launch after that is
-   fast. The first time, VS Code may ask **"Do you trust the authors of the files in this
+2. On your copy, click **Code -> Codespaces -> Create codespace on main**. The first launch can
+   take up to 5 minutes while it installs Python and the required packages; every launch after
+   that is fast. The first time, VS Code may ask **"Do you trust the authors of the files in this
    folder?"**; this is a normal one-time prompt for any new workspace, not a warning specific to
    this repository. Click **Yes, I trust the authors**.
 3. If **Compress to ZIP** (used in step 4 below) doesn't appear when you right-click a file the
