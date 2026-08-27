@@ -31,8 +31,10 @@ Preview are both extensions. The **terminal** is a text-based command window, op
 
 ## Each week
 
-1. Download that week's activity folder (from Canvas, same as usual) and unzip it locally.
-2. Open the unzipped folder, select everything inside it (not the folder itself), and drag those
+1. Download that week's materials from Dropbox (same as usual) and unzip it. Depending on whether
+   you downloaded a single class or several together, you may need to look inside a folder or two
+   to find it, but find that week's **`activity` folder**.
+2. Select everything **inside** that `activity` folder (not the folder itself), and drag those
    files and folders into your Codespace's file explorer, so they land directly in your workspace
    rather than nested inside an extra folder.
 3. Open its notebook(s) in the Jupyter extension, or work with the `.py` files directly. Use the
