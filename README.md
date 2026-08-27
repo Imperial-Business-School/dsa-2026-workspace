@@ -1,11 +1,13 @@
 # DSA Codespaces Workspace
 
-This is your personal workspace for running class activities in the cloud, as an alternative to
-installing Python locally. It's yours: nothing here is shared with or visible to other students.
+This repository is the shared starting point for running class activities in the cloud, as an
+alternative to installing Python locally. The repository itself is visible to everyone on the
+course, but the **Codespace** you launch from it (where you actually do your work) is private to
+you: nobody else can see or access it.
 
-**Note:** this repository is only visible to people signed in to GitHub through Imperial's
-organisation. If a link to it doesn't load for you, see the **Getting Started** guide (in the
-course materials on Canvas) for how to register first.
+**Note:** this repository's page is publicly viewable, but you'll need to be signed in to GitHub
+to create a Codespace from it. See the **Getting Started** guide (in the course materials on
+Canvas) for how to register through Imperial's GitHub organisation first.
 
 A few terms used below: your **workspace** is this open project folder in VS Code. The **file
 explorer** is the panel of files and folders down the left side of the window. An **extension** is
@@ -15,14 +17,14 @@ Preview are both extensions. The **terminal** is a text-based command window, op
 
 ## One-time setup
 
-1. Click **Use this template** on the repository page to create your own copy under your GitHub
-   account.
-2. On your copy, click **Code -> Codespaces -> Create codespace on main**. The first launch can
-   take up to 5 minutes while it installs Python and the required packages; every launch after
-   that is fast. The first time, VS Code may ask **"Do you trust the authors of the files in this
-   folder?"**; this is a normal one-time prompt for any new workspace, not a warning specific to
-   this repository. Click **Yes, I trust the authors**.
-3. If **Compress to ZIP** (used in step 4 below) doesn't appear when you right-click a file the
+1. On this repository's page, click **Code -> Codespaces -> Create codespace on main**. You don't
+   need to make your own copy of this repository first; creating a Codespace gives you your own
+   personal, private environment regardless. The first launch can take up to 5 minutes while it
+   installs Python and the required packages; every launch after that is fast. The first time, VS
+   Code may ask **"Do you trust the authors of the files in this folder?"**; this is a normal
+   one-time prompt for any new workspace, not a warning specific to this repository. Click **Yes,
+   I trust the authors**.
+2. If **Compress to ZIP** (used in step 3 below) doesn't appear when you right-click a file the
    very first time you open your Codespace, reload the window using the **Command Palette** (a
    search box for running commands by name -- open it with `Ctrl+Shift+P` on Windows/Linux or
    `Cmd+Shift+P` on Mac, type **"Developer: Reload Window"**, and press Enter) and it'll show up.
