@@ -17,13 +17,11 @@ Preview are both extensions. The **terminal** is a text-based command window, op
 
 ## One-time setup
 
-1. On this repository's page, click **Code -> Codespaces -> Create codespace on main**. You don't
-   need to make your own copy of this repository first; creating a Codespace gives you your own
-   personal, private environment regardless. The first launch can take up to 5 minutes while it
-   installs Python and the required packages; every launch after that is fast. The first time, VS
-   Code may ask **"Do you trust the authors of the files in this folder?"**; this is a normal
-   one-time prompt for any new workspace, not a warning specific to this repository. Click **Yes,
-   I trust the authors**.
+1. On this repository's page, click **Code -> Codespaces -> Create codespace on main**. The first
+   launch can take up to 5 minutes while it installs Python and the required packages; every
+   launch after that is fast. The first time, VS Code may ask **"Do you trust the authors of the
+   files in this folder?"**; this is a normal one-time prompt for any new workspace, not a warning
+   specific to this repository. Click **Yes, I trust the authors**.
 2. If **Compress to ZIP** (used in step 3 below) doesn't appear when you right-click a file the
    very first time you open your Codespace, reload the window using the **Command Palette** (a
    search box for running commands by name -- open it with `Ctrl+Shift+P` on Windows/Linux or
@@ -58,19 +56,6 @@ anything you didn't already download is gone.
 The file explorer only ever needs to show that week's activity folder. A couple of setup files
 (`.devcontainer`, `.gitignore`) are hidden from view on purpose, since they're not something you
 need to touch; they're what makes the environment work automatically, in the background.
-
-## Making `.html` files open as a preview by default
-
-Some class materials come as `.html` files. By default, clicking one opens its raw source code
-rather than a rendered preview. To fix this once, for good:
-
-1. Click on any `.html` file so it opens.
-2. Right-click its tab (or right-click the file in the file explorer) and choose **"Select Default
-   Editor..."**.
-3. Choose **"Live Preview"** from the list.
-
-After this, every `.html` file you click opens rendered, not as source, for the rest of this
-workspace's lifetime.
 
 ## Working locally instead
 
