@@ -8,9 +8,7 @@
           "**/.devcontainer": true,
           "**/.gitignore": true
         },
-        "explorer.autoOpenDroppedFile": false,
-        "livePreview.openPreviewTarget": "embeddedPreview",
-        "livePreview.showAutoRefreshOnUpdate": false
+        "explorer.autoOpenDroppedFile": false
       },
       "extensions": [
         "ms-python.python",
@@ -19,7 +17,7 @@
         "ms-toolsai.jupyter",
         "ms-toolsai.jupyter-keymap",
         "ms-toolsai.jupyter-renderers",
-        "ms-vscode.live-server",
+        "george-alisson.html-preview-vscode",
         "nmhp.compress-to-zip",
         "repreng.csv",
         "tomoki1207.pdf",
