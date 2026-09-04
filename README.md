@@ -17,7 +17,8 @@ Preview are both extensions. The **terminal** is a text-based command window, op
 
 ## One-time setup
 
-1. On this repository's page, click **Code -> Codespaces -> Create codespace on main**. The first
+1. On this repository's page, click **Code**, select the **Codespaces** tab, then click the **+**
+   icon to create a codespace on `main`. The first
    launch can take up to 5 minutes while it installs Python and the required packages; every
    launch after that is fast. The first time, VS Code may ask **"Do you trust the authors of the
    files in this folder?"**; this is a normal one-time prompt for any new workspace, not a warning
