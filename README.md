@@ -11,8 +11,8 @@ Canvas) for how to register through Imperial's GitHub organisation first.
 
 A few terms used below: your **workspace** is this open project folder in VS Code. The **file
 explorer** is the panel of files and folders down the left side of the window. An **extension** is
-a small add-on that gives VS Code an extra feature -- Compress to ZIP (used below) and Live
-Preview are both extensions. The **terminal** is a text-based command window, opened with
+a small add-on that gives VS Code an extra feature -- Zipper (used below) and HTML Preview
+are both extensions. The **terminal** is a text-based command window, opened with
 `` Ctrl+` `` (backtick) or `` Cmd+` ``.
 
 ## One-time setup
@@ -23,12 +23,10 @@ Preview are both extensions. The **terminal** is a text-based command window, op
    launch after that is fast. The first time, VS Code may ask **"Do you trust the authors of the
    files in this folder?"**; this is a normal one-time prompt for any new workspace, not a warning
    specific to this repository. Click **Yes, I trust the authors**.
-2. If **Compress to ZIP** (used in step 3 below) doesn't appear when you right-click a file the
-   very first time you open your Codespace, reload the window using the **Command Palette** (a
-   search box for running commands by name -- open it with `Ctrl+Shift+P` on Windows/Linux or
-   `Cmd+Shift+P` on Mac, type **"Developer: Reload Window"**, and press Enter) and it'll show up.
-   This is normal VS Code behaviour after a fresh install, not a problem with the extension
-   itself: an extension's right-click menu entries sometimes don't register until the next reload.
+2. If **Compress** (used in step 3 below) doesn't appear when you right-click a file the very
+   first time you open your Codespace, just reload the browser page and it'll show up. This is
+   normal VS Code behaviour after a fresh install, not a problem with the extension itself: an
+   extension's right-click menu entries sometimes don't register until the next reload.
 
 ## Each week
 
@@ -41,7 +39,7 @@ Preview are both extensions. The **terminal** is a text-based command window, op
 3. Open its notebook(s) in the Jupyter extension, or work with the `.py` files directly. Use the
    terminal to run `python ok --score` exactly as in the local setup instructions.
 4. When you're done, click into the file explorer and press **Ctrl+A** (Windows/Linux) or
-   **Cmd+A** (Mac) to select everything, then right-click and choose **Compress to ZIP**. Rename
+   **Cmd+A** (Mac) to select everything, then right-click and choose **Compress**. Rename
    the resulting zip to match the naming convention (e.g. `class-3-activity.zip`), same as the
    local workflow, then right-click that zip file and choose **Download**, and upload it to
    Canvas.
