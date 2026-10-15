@@ -1,0 +1,892 @@
+PassengerId,Nationality
+1,Swede
+2,Austro Hungarian
+3,Swede
+4,Belgian
+5,Swede
+6,Irish
+7,English
+8,Swede
+9,Belgian
+10,American
+11,Swede
+12,Austro Hungarian
+13,English
+14,Irish
+15,Australian
+16,American
+17,Irish
+18,Belgian
+19,English
+20,American
+21,Belgian
+22,Austro Hungarian
+23,Irish
+24,Austro Hungarian
+25,Swede
+26,English
+27,Irish
+28,Australian
+29,Irish
+30,Belgian
+31,Swede
+32,Australian
+33,Austro Hungarian
+34,Irish
+35,Austro Hungarian
+36,Australian
+37,Swede
+38,Irish
+39,American
+40,Irish
+41,English
+42,English
+43,Belgian
+44,English
+45,Swede
+46,American
+47,Irish
+48,Irish
+49,American
+50,Irish
+51,Belgian
+52,English
+53,Australian
+54,American
+55,Belgian
+56,Belgian
+57,Austro Hungarian
+58,Australian
+59,Swede
+60,Swede
+61,Australian
+62,Irish
+63,Austro Hungarian
+64,Belgian
+65,English
+66,Austro Hungarian
+67,Australian
+68,Irish
+69,Australian
+70,Irish
+71,Irish
+72,Austro Hungarian
+73,Belgian
+74,Austro Hungarian
+75,Irish
+76,English
+77,Swede
+78,Irish
+79,Austro Hungarian
+80,English
+81,Irish
+82,Irish
+83,American
+84,Australian
+85,Belgian
+86,English
+87,Austro Hungarian
+88,English
+89,Belgian
+90,Australian
+91,Irish
+92,Austro Hungarian
+93,Swede
+94,Swede
+95,Australian
+96,Belgian
+97,Australian
+98,Australian
+99,Belgian
+100,Swede
+101,English
+102,American
+103,Australian
+104,Australian
+105,American
+106,English
+107,Irish
+108,American
+109,Irish
+110,Australian
+111,Irish
+112,Austro Hungarian
+113,Australian
+114,Irish
+115,Irish
+116,Swede
+117,English
+118,Belgian
+119,English
+120,Irish
+121,Australian
+122,Austro Hungarian
+123,English
+124,Irish
+125,American
+126,Swede
+127,Austro Hungarian
+128,Swede
+129,American
+130,Austro Hungarian
+131,Swede
+132,Australian
+133,Belgian
+134,Irish
+135,Irish
+136,American
+137,Belgian
+138,English
+139,Belgian
+140,Irish
+141,Swede
+142,Austro Hungarian
+143,Swede
+144,English
+145,Swede
+146,American
+147,Australian
+148,Swede
+149,Austro Hungarian
+150,Belgian
+151,Irish
+152,American
+153,Irish
+154,Belgian
+155,Australian
+156,Belgian
+157,Australian
+158,English
+159,Swede
+160,Belgian
+161,English
+162,Swede
+163,American
+164,Swede
+165,American
+166,Irish
+167,Irish
+168,Swede
+169,Irish
+170,American
+171,Australian
+172,Irish
+173,Belgian
+174,American
+175,Australian
+176,English
+177,Swede
+178,Australian
+179,Irish
+180,Belgian
+181,Austro Hungarian
+182,Australian
+183,Irish
+184,English
+185,Irish
+186,American
+187,Australian
+188,Austro Hungarian
+189,Australian
+190,English
+191,Irish
+192,American
+193,Swede
+194,Austro Hungarian
+195,American
+196,English
+197,English
+198,Belgian
+199,American
+200,American
+201,Austro Hungarian
+202,Australian
+203,American
+204,American
+205,Irish
+206,Australian
+207,Australian
+208,American
+209,English
+210,Austro Hungarian
+211,Australian
+212,English
+213,Australian
+214,English
+215,American
+216,Belgian
+217,Australian
+218,Australian
+219,Australian
+220,Swede
+221,English
+222,Swede
+223,English
+224,Belgian
+225,American
+226,Belgian
+227,Australian
+228,Austro Hungarian
+229,Austro Hungarian
+230,American
+231,Belgian
+232,Swede
+233,English
+234,English
+235,Belgian
+236,Australian
+237,Austro Hungarian
+238,Belgian
+239,Belgian
+240,American
+241,English
+242,Swede
+243,Australian
+244,Belgian
+245,American
+246,Austro Hungarian
+247,Belgian
+248,Belgian
+249,Australian
+250,Australian
+251,American
+252,Belgian
+253,Swede
+254,Austro Hungarian
+255,Australian
+256,American
+257,Austro Hungarian
+258,Irish
+259,Belgian
+260,Australian
+261,Irish
+262,American
+263,Irish
+264,Austro Hungarian
+265,Australian
+266,Swede
+267,American
+268,Australian
+269,American
+270,Australian
+271,English
+272,Austro Hungarian
+273,Australian
+274,English
+275,American
+276,American
+277,Irish
+278,Irish
+279,American
+280,Austro Hungarian
+281,Irish
+282,English
+283,English
+284,English
+285,Swede
+286,Austro Hungarian
+287,Belgian
+288,Swede
+289,Irish
+290,American
+291,Swede
+292,Irish
+293,Belgian
+294,Swede
+295,American
+296,Swede
+297,Austro Hungarian
+298,Austro Hungarian
+299,English
+300,Irish
+301,English
+302,English
+303,English
+304,Australian
+305,Irish
+306,Swede
+307,Belgian
+308,Australian
+309,English
+310,Swede
+311,Belgian
+312,Australian
+313,Swede
+314,Swede
+315,Australian
+316,Swede
+317,Belgian
+318,Belgian
+319,Swede
+320,Swede
+321,Belgian
+322,Austro Hungarian
+323,Austro Hungarian
+324,Austro Hungarian
+325,American
+326,Irish
+327,Irish
+328,Swede
+329,Austro Hungarian
+330,Belgian
+331,English
+332,Swede
+333,Irish
+334,Austro Hungarian
+335,English
+336,Australian
+337,Irish
+338,Austro Hungarian
+339,Australian
+340,Swede
+341,Swede
+342,Irish
+343,American
+344,English
+345,Australian
+346,Austro Hungarian
+347,American
+348,American
+349,American
+350,Swede
+351,Austro Hungarian
+352,Irish
+353,Belgian
+354,English
+355,English
+356,English
+357,English
+358,English
+359,Swede
+360,Austro Hungarian
+361,Belgian
+362,American
+363,English
+364,American
+365,Irish
+366,American
+367,Australian
+368,English
+369,Irish
+370,American
+371,Belgian
+372,Irish
+373,Irish
+374,Swede
+375,Swede
+376,Swede
+377,Belgian
+378,Austro Hungarian
+379,Australian
+380,Swede
+381,Irish
+382,American
+383,American
+384,Swede
+385,Swede
+386,English
+387,English
+388,Austro Hungarian
+389,Austro Hungarian
+390,Australian
+391,English
+392,Austro Hungarian
+393,Irish
+394,Irish
+395,Belgian
+396,Irish
+397,Belgian
+398,Swede
+399,Australian
+400,Austro Hungarian
+401,Australian
+402,Swede
+403,American
+404,Austro Hungarian
+405,Irish
+406,Belgian
+407,Belgian
+408,Australian
+409,English
+410,English
+411,English
+412,Irish
+413,Irish
+414,American
+415,Australian
+416,Australian
+417,Austro Hungarian
+418,Swede
+419,Austro Hungarian
+420,Austro Hungarian
+421,Belgian
+422,Swede
+423,Swede
+424,Swede
+425,American
+426,Irish
+427,English
+428,Austro Hungarian
+429,Australian
+430,English
+431,Austro Hungarian
+432,Belgian
+433,English
+434,Swede
+435,Swede
+436,Swede
+437,American
+438,English
+439,American
+440,Australian
+441,Swede
+442,Swede
+443,English
+444,Belgian
+445,Belgian
+446,Belgian
+447,Austro Hungarian
+448,Irish
+449,Australian
+450,Swede
+451,English
+452,Austro Hungarian
+453,American
+454,Austro Hungarian
+455,Austro Hungarian
+456,Australian
+457,Australian
+458,Australian
+459,Belgian
+460,Swede
+461,Austro Hungarian
+462,Austro Hungarian
+463,Austro Hungarian
+464,American
+465,American
+466,American
+467,Australian
+468,Australian
+469,American
+470,Austro Hungarian
+471,Belgian
+472,Irish
+473,Austro Hungarian
+474,Austro Hungarian
+475,Austro Hungarian
+476,Belgian
+477,Austro Hungarian
+478,Austro Hungarian
+479,American
+480,Austro Hungarian
+481,Austro Hungarian
+482,Belgian
+483,American
+484,Austro Hungarian
+485,American
+486,Australian
+487,Belgian
+488,Austro Hungarian
+489,English
+490,Irish
+491,Austro Hungarian
+492,English
+493,Austro Hungarian
+494,English
+495,American
+496,Belgian
+497,English
+498,English
+499,American
+500,Australian
+501,Austro Hungarian
+502,Irish
+503,English
+504,Austro Hungarian
+505,English
+506,American
+507,Belgian
+508,English
+509,English
+510,Belgian
+511,Belgian
+512,American
+513,Belgian
+514,Belgian
+515,English
+516,American
+517,Belgian
+518,Australian
+519,English
+520,Swede
+521,Irish
+522,Irish
+523,English
+524,Swede
+525,Austro Hungarian
+526,Belgian
+527,Belgian
+528,Austro Hungarian
+529,Belgian
+530,Belgian
+531,English
+532,Belgian
+533,Irish
+534,American
+535,Belgian
+536,Swede
+537,American
+538,Austro Hungarian
+539,Belgian
+540,Austro Hungarian
+541,Irish
+542,English
+543,Belgian
+544,Swede
+545,English
+546,American
+547,Australian
+548,Swede
+549,American
+550,Irish
+551,American
+552,American
+553,Austro Hungarian
+554,Austro Hungarian
+555,American
+556,English
+557,Belgian
+558,Belgian
+559,Irish
+560,Irish
+561,Belgian
+562,Irish
+563,English
+564,English
+565,American
+566,Irish
+567,Belgian
+568,Austro Hungarian
+569,Austro Hungarian
+570,Austro Hungarian
+571,Swede
+572,Australian
+573,American
+574,Irish
+575,Australian
+576,Austro Hungarian
+577,English
+578,Swede
+579,Australian
+580,English
+581,Australian
+582,Austro Hungarian
+583,English
+584,English
+585,Swede
+586,Austro Hungarian
+587,American
+588,Swede
+589,Belgian
+590,American
+591,American
+592,Austro Hungarian
+593,English
+594,Swede
+595,Australian
+596,English
+597,English
+598,Belgian
+599,Austro Hungarian
+600,American
+601,Austro Hungarian
+602,Belgian
+603,Irish
+604,American
+605,Australian
+606,English
+607,Australian
+608,Swede
+609,Australian
+610,Australian
+611,Australian
+612,Australian
+613,English
+614,Austro Hungarian
+615,American
+616,English
+617,Belgian
+618,Australian
+619,Irish
+620,Belgian
+621,American
+622,Austro Hungarian
+623,Belgian
+624,English
+625,English
+626,Swede
+627,Irish
+628,Austro Hungarian
+629,Swede
+630,Australian
+631,English
+632,Swede
+633,Irish
+634,Austro Hungarian
+635,Swede
+636,Austro Hungarian
+637,American
+638,Austro Hungarian
+639,Australian
+640,English
+641,Swede
+642,Austro Hungarian
+643,American
+644,Belgian
+645,Swede
+646,English
+647,Australian
+648,Austro Hungarian
+649,Swede
+650,English
+651,Austro Hungarian
+652,Irish
+653,English
+654,Australian
+655,Irish
+656,Austro Hungarian
+657,Australian
+658,Austro Hungarian
+659,English
+660,Swede
+661,Belgian
+662,Swede
+663,English
+664,English
+665,Australian
+666,American
+667,Austro Hungarian
+668,American
+669,English
+670,American
+671,Australian
+672,Irish
+673,Austro Hungarian
+674,Irish
+675,English
+676,Australian
+677,English
+678,Irish
+679,Belgian
+680,Swede
+681,Australian
+682,English
+683,American
+684,Australian
+685,Swede
+686,Austro Hungarian
+687,Belgian
+688,Austro Hungarian
+689,Australian
+690,English
+691,Belgian
+692,Australian
+693,Swede
+694,Irish
+695,American
+696,Australian
+697,Australian
+698,American
+699,Belgian
+700,American
+701,Swede
+702,American
+703,Belgian
+704,Swede
+705,American
+706,Belgian
+707,Austro Hungarian
+708,American
+709,Australian
+710,Austro Hungarian
+711,American
+712,Australian
+713,American
+714,Swede
+715,Austro Hungarian
+716,English
+717,Belgian
+718,Australian
+719,Irish
+720,Australian
+721,Australian
+722,Austro Hungarian
+723,Irish
+724,Belgian
+725,Irish
+726,Austro Hungarian
+727,English
+728,English
+729,Irish
+730,Swede
+731,American
+732,American
+733,American
+734,Australian
+735,Australian
+736,Belgian
+737,Belgian
+738,Austro Hungarian
+739,Australian
+740,American
+741,English
+742,English
+743,Austro Hungarian
+744,Australian
+745,English
+746,Swede
+747,Irish
+748,Belgian
+749,American
+750,English
+751,English
+752,Swede
+753,Australian
+754,English
+755,English
+756,Irish
+757,Irish
+758,Irish
+759,English
+760,Austro Hungarian
+761,Swede
+762,Belgian
+763,Swede
+764,Swede
+765,Australian
+766,Irish
+767,American
+768,Irish
+769,English
+770,Swede
+771,Australian
+772,Australian
+773,Austro Hungarian
+774,Belgian
+775,Swede
+776,Swede
+777,Swede
+778,Swede
+779,Austro Hungarian
+780,Irish
+781,Swede
+782,English
+783,Australian
+784,Irish
+785,Irish
+786,Belgian
+787,English
+788,Australian
+789,Belgian
+790,American
+791,Irish
+792,Belgian
+793,Austro Hungarian
+794,Belgian
+795,Austro Hungarian
+796,Irish
+797,Swede
+798,American
+799,Swede
+800,American
+801,Swede
+802,Austro Hungarian
+803,Irish
+804,Australian
+805,English
+806,Australian
+807,American
+808,American
+809,American
+810,Australian
+811,Austro Hungarian
+812,Swede
+813,English
+814,Australian
+815,Irish
+816,American
+817,Irish
+818,Austro Hungarian
+819,English
+820,American
+821,Austro Hungarian
+822,Swede
+823,Swede
+824,Australian
+825,Swede
+826,Austro Hungarian
+827,Austro Hungarian
+828,English
+829,Irish
+830,Australian
+831,Irish
+832,Australian
+833,English
+834,Belgian
+835,English
+836,Australian
+837,English
+838,Belgian
+839,English
+840,English
+841,Belgian
+842,English
+843,Australian
+844,Austro Hungarian
+845,Austro Hungarian
+846,Swede
+847,Austro Hungarian
+848,English
+849,English
+850,American
+851,Australian
+852,Irish
+853,Swede
+854,Irish
+855,Belgian
+856,Belgian
+857,Swede
+858,Belgian
+859,Austro Hungarian
+860,American
+861,Irish
+862,Irish
+863,Belgian
+864,Swede
+865,Australian
+866,Australian
+867,Australian
+868,Austro Hungarian
+869,Austro Hungarian
+870,Austro Hungarian
+871,Austro Hungarian
+872,Swede
+873,Australian
+874,Belgian
+875,Austro Hungarian
+876,Swede
+877,Austro Hungarian
+878,Swede
+879,English
+880,Irish
+881,Austro Hungarian
+882,Irish
+883,Swede
+884,Irish
+885,English
+886,Swede
+887,American
+888,American
+889,Belgian
+890,Swede
+891,Belgian

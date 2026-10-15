@@ -1,0 +1,25 @@
+{
+    "name": "Session 2",
+    "endpoint": "",
+    "src": [
+        "algo.py",
+        "algo_extra.py"
+    ],
+    "tests": {
+        "tests/q1.py": "ok_test",
+        "tests/q2.py": "ok_test",
+        "tests/sum_of_squares.py": "ok_test",
+        "tests/print_grade.py": "ok_test",
+        "tests/weeks.py": "ok_test",
+        "tests/middle_of_three.py": "ok_test",
+        "tests/sum_up_to.py": "ok_test",
+        "tests/square_root_heron.py": "ok_test",
+        "tests/square_root_bisection.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

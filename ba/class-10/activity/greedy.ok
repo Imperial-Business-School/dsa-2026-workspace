@@ -1,0 +1,21 @@
+{
+    "name": "Session 10",
+    "endpoint": "",
+    "src": [
+        "greedy.py",
+		"greedy_extra.py"
+    ],
+    "tests": {
+	  "tests/recap.py": "ok_test",
+      "tests/test_greedy.py": "ok_test",
+	  "tests/test_knapsack_dp.py": "ok_test",
+	  "tests/test_greedy_fractional.py": "ok_test",
+	  "tests/test_greedy_heuristic.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

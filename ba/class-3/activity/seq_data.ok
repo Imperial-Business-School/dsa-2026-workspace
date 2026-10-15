@@ -1,0 +1,29 @@
+{
+    "name": "Session 3",
+    "endpoint": "",
+    "src": [
+        "seq_data.py",
+        "seq_data_extra.py"
+    ],
+    "tests": {
+          "tests/q1.py": "ok_test",
+          "tests/q2.py": "ok_test",
+          "tests/q3.py": "ok_test",
+          "tests/q4.py": "ok_test",
+          "tests/item_lengths.py": "ok_test",
+          "tests/longest_item.py": "ok_test",
+          "tests/broken_factorial.py": "ok_test",
+          "tests/count_capital_letters.py": "ok_test",
+          "tests/str_to_int.py": "ok_test",
+          "tests/value_at_least.py": "ok_test",
+          "tests/to_chars.py": "ok_test",
+          "tests/is_palindrome.py": "ok_test",
+          "tests/search_word.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Session 5",
+    "endpoint": "",
+    "src": [
+        "sorting.py",
+        "sorting_extra.py"
+    ],
+    "tests": {
+        "tests/q1_recap.py": "ok_test",
+        "tests/find_min_index.py": "ok_test",
+        "tests/selection_sort.py": "ok_test",
+        "tests/sort_by_key.py": "ok_test",
+        "tests/merge.py": "ok_test",
+        "tests/merge_sort.py": "ok_test",
+        "tests/recursive_fibonacci.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

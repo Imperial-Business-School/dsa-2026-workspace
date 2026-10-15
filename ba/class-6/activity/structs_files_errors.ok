@@ -1,0 +1,33 @@
+{
+    "name": "Session 6",
+    "endpoint": "",
+    "src": [
+        "structs_files_errors.py",
+        "structs_files_errors_extra.py",
+        "trump_tweets_json.py",
+		    "pandas-workbook.ipynb"
+    ],
+    "tests": {
+      "tests/recap.py": "ok_test",
+      "tests/dicts.py": "ok_test",
+      "tests/sets.py": "ok_test",
+      "tests/comprehensions.py": "ok_test",
+	    "tests/q*.py": "ok_test",
+      "tests/print_dict_values.py": "ok_test",
+      "tests/count_characters.py": "ok_test",
+      "tests/divide.py": "ok_test",
+      "tests/count_words.py": "ok_test",
+      "tests/caesar_cipher_encrypt.py": "ok_test",
+      "tests/caesar_cipher_decrypt.py": "ok_test",
+      "tests/count_tweets_by_source.py": "ok_test",
+      "tests/tweets_containing.py": "ok_test",
+      "tests/most_retweeted.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
+
