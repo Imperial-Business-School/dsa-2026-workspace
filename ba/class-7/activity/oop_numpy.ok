@@ -1,0 +1,26 @@
+{
+    "name": "Session 7",
+    "endpoint": "",
+    "src": [
+        "oop_numpy.py",
+		"oop_numpy_extra.py",
+		"numpy-workbook.ipynb"
+    ],
+    "tests": {
+      "tests/recap.py": "ok_test",
+      "tests/monsters.py": "ok_test",
+      "tests/more_monsters.py": "ok_test",
+	  "tests/q*.py": "ok_test",
+	  "tests/Monster_heal.py": "ok_test",
+	  "tests/Monster_use_attack.py": "ok_test",
+      "tests/test_attack.py": "ok_test",
+      "tests/test_listqueue.py": "ok_test",
+      "tests/test_queue.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

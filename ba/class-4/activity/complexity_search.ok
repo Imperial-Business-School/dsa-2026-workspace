@@ -1,0 +1,23 @@
+{
+    "name": "Session 4",
+    "endpoint": "",
+    "src": [
+        "complexity_search.py",
+        "complexity_search_extra.py"
+    ],
+    "tests": {
+        "tests/q1.py": "ok_test",
+        "tests/q_big_o.py": "ok_test",
+        "tests/q_big_o_extra.py": "ok_test",
+        "tests/linear_search_index.py": "ok_test",
+        "tests/binary_search_count.py": "ok_test",
+        "tests/check_sorted.py": "ok_test",
+        "tests/longest_sorted.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

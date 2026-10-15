@@ -1,0 +1,25 @@
+{
+    "name": "Homework 1",
+    "endpoint": "",
+    "src": [
+        "hw_01.py"
+    ],
+    "tests": {
+      "tests/wind_chill.py": "ok_test",
+      "tests/the_35_teaser.py": "ok_test",
+      "tests/the_35_looper.py": "ok_test",
+      "tests/date_conversion.py": "ok_test",
+      "tests/is_leap_year.py": "ok_test",
+      "tests/date_conversion_robust.py": "ok_test",
+      "tests/comparison_function.py": "ok_test",
+      "tests/counting_sort.py": "ok_test",
+      "tests/count_occurrences.py": "ok_test",
+      "tests/total_duration.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

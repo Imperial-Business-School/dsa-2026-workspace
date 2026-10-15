@@ -1,0 +1,22 @@
+{
+    "name": "Homework 2",
+    "endpoint": "",
+    "src": [
+        "hw_02.py"
+    ],
+    "tests": {
+      "tests/buy_and_hold.py": "ok_test",
+      "tests/moving_average.py": "ok_test",
+      "tests/compare_mas.py": "ok_test",
+      "tests/ma_strategy.py": "ok_test",
+      "tests/gallery.py": "ok_test",
+      "tests/max_concurrent.py": "ok_test",
+      "tests/HashTable.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

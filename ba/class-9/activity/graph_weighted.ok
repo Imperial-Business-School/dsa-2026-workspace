@@ -1,0 +1,20 @@
+{
+    "name": "Session 9",
+    "endpoint": "",
+    "src": [
+	"graph_weighted.py",
+	"graph_weighted_extra.py"
+    ],
+    "tests": {
+      "tests/recap.py": "ok_test",
+      "tests/lecture_graph.py": "ok_test",
+      "tests/dijkstra.py": "ok_test",
+      "tests/dijkstra_heap.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}

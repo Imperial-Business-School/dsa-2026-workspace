@@ -1,0 +1,23 @@
+{
+  "python_version": "3.12",
+  "packages": [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "networkx",
+    "xlrd",
+    "ipykernel"
+  ],
+  "extensions": [
+    { "id": "ms-python.python", "description": "Python language support, debugger" },
+    { "id": "ms-python.vscode-pylance", "description": "Fast Python IntelliSense/type-checking" },
+    { "id": "ms-python.vscode-python-envs", "description": "GUI panel to see/create/switch Python environments -- helps with selecting the dsa-env venv" },
+    { "id": "ms-toolsai.jupyter", "description": "Run and edit .ipynb notebooks -- used in most classes" },
+    { "id": "ms-toolsai.jupyter-keymap", "description": "Jupyter-style notebook keybindings" },
+    { "id": "ms-toolsai.jupyter-renderers", "description": "Richer output rendering (e.g. plots) in notebooks" },
+    { "id": "george-alisson.html-preview-vscode", "description": "Preview the .html activity files directly in VS Code" },
+    { "id": "repreng.csv", "description": "Readable, coloured view of the .csv data files used in several classes" },
+    { "id": "tomoki1207.pdf", "description": "View PDFs (syllabus, assessment, etc.) without leaving VS Code" },
+    { "id": "github.vscode-pull-request-github", "description": "GitHub account integration" }
+  ]
+}

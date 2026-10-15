@@ -1,0 +1,22 @@
+{
+    "name": "Session 8",
+    "endpoint": "",
+    "src": [
+        "graph_unweighted.py",
+	    "graph_unweighted_extra.py"
+    ],
+    "tests": {
+      "tests/recap.py": "ok_test",
+      "tests/create_bfs_graph.py": "ok_test",
+      "tests/bfs.py": "ok_test",
+      "tests/bfs_track_path.py": "ok_test",
+      "tests/kevin_bacon_distance.py": "ok_test",
+      "tests/dfs.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
